@@ -101,3 +101,10 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+## for flare 
+
+GLFW.mk 
+GLFW.project 
+GLFW.txt 
+*bin-int/
+*bin/
